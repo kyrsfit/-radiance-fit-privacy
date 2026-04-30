@@ -3,7 +3,7 @@
   **Last updated: April 23, 2026**                              
                                                                                                                         
   ## Information We Collect                                                                                             
-  Radiance Fit stores workout data, routines, and notes locally on your device. We do not collect or transmit personal
+  kyrs Fit stores workout data, routines, and notes locally on your device. We do not collect or transmit personal
   information to our servers.                                                                                           
                                                                                                                         
   ## Advertising                              
